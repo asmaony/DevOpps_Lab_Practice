@@ -1,4 +1,4 @@
-## Introduction to Amazon EC2
+## LAB_1-Introduction to Amazon EC2
 #### We will introduce basic understanding of launching,resizing,managing an Amazon EC2 Instance.
 
 #### 1. launch a web server with termination protection enabled:
@@ -56,7 +56,7 @@ In this task, you will learn how to use termination protection.
 ![Screenshot (43)](https://github.com/user-attachments/assets/92c6d0c7-6637-408b-964e-de252dc1c405)
 
 
-## Introduction to Amazon Simple Storage Service S3
+## LAB_2-Introduction to Amazon Simple Storage Service S3
 
 
 
