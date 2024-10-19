@@ -24,6 +24,9 @@
 #### Test terminaation protection
 #### Terminate the EC2 Instance
 
+![Screenshot (43)](https://github.com/user-attachments/assets/92c6d0c7-6637-408b-964e-de252dc1c405)
+
+
 
 
 
