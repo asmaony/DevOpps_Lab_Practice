@@ -8,6 +8,14 @@
 #### Monitor the Instance
 
 
+![Screenshot (37)](https://github.com/user-attachments/assets/56018457-3173-4a4b-a112-10cf6be7704f)
+
+#### Modify the security Group that the web server is using to allow HTTP access.
+
+
+
+
+
 
 
 
