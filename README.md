@@ -19,6 +19,12 @@
 
 #### Resize Amazon EC2 Instance to scale
 
+![Screenshot (41)](https://github.com/user-attachments/assets/752d16ba-0f8b-4a06-883e-cfd109c96577)
+
+#### Test terminaation protection
+#### Terminate the EC2 Instance
+
+
 
 
 
