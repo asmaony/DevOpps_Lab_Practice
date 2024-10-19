@@ -12,6 +12,11 @@
 
 #### Modify the security Group that the web server is using to allow HTTP access.
 
+![Screenshot (38)](https://github.com/user-attachments/assets/5c0a8718-743f-45a0-b6eb-ff3dabc774f1)
+
+
+
+
 
 
 
