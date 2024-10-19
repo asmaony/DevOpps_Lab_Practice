@@ -1,5 +1,7 @@
 ## Introduction to Amazon EC2
 #### We will introduce basic understanding of launching,resizing,managing an Amazon EC2 instance.
 
+#### launch a web server with termination protection enabled.
+
 
 
