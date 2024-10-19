@@ -14,6 +14,14 @@
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/5c0a8718-743f-45a0-b6eb-ff3dabc774f1)
 
+![Screenshot (39)](https://github.com/user-attachments/assets/02a279e8-34c9-42ae-a341-21205a26be2f)
+
+
+#### Resize Amazon EC2 Instance to scale
+
+
+
+
 
 
 
