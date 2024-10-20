@@ -58,7 +58,7 @@ In this task, you will learn how to use termination protection.
 
 ## LAB_2-Introduction to Amazon Simple Storage Service S3
 
-## 1.Create a bucket:
+#### 1.Create a bucket:
 In this task,We will create a bucket to hold our EC2 report data and then examine the diffrent bucket configuration option.
 
 #### 2.Upload an object to the bucket:
