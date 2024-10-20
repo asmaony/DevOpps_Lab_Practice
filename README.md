@@ -58,6 +58,29 @@ In this task, you will learn how to use termination protection.
 
 ## LAB_2-Introduction to Amazon Simple Storage Service S3
 
+## 1.Create a bucket:
+In this task,We will create a bucket to hold our EC2 report data and then examine the diffrent bucket configuration option.
+
+#### 2.Upload an object to the bucket:
+In this task we test uploading objects to reportbucket.
+
+#### 3.Make an object Public:
+Here ,we configure permissions on our bucket and our object to test accessibility.
+#### 4.Test connectivity from EC2 Instance:
+In this task, we connect our EC2 to test connectivity and security to the S3 report bucket.
+#### 5.Create a bucket policy:
+Here we use the AWS policy generator to create a bucket policy to enable read and write access from the EC2 instance to the bucket to ensure your reporting application can successfully write to S3.
+
+
+#### 6.Explore versioning
+
+
+
+
+
+
+
+
 
 
 
